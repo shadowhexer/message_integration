@@ -31,3 +31,5 @@ Source code: https://www.twilio.com/en-us/blog/bulk-sms-service-django-twilio
     ```
     (message_integration)C:\path\to\your\message_integration>py manage.py runserver
     ```
+
+5. Contact me for the .env file in message_integration folder
