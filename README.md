@@ -21,7 +21,7 @@ Source code: https://www.twilio.com/en-us/blog/bulk-sms-service-django-twilio
     (message_integration)C:\path\to\your\message_integration>pip install django twilio django-environ
     ```
 
-or install all dependecies from requirments.txt
+    or install all dependecies from requirments.txt
 
     ```
     pip install -r 'requirements.txt'
